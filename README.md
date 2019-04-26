@@ -1,6 +1,17 @@
+Aplicação desenvolvida com:
+PHP 7, 
+LARAVEL FRAMEWORK,
+JSON,
+BOOTSTRAP,
+CSS,
+HTML5 e
+JavaScript,
+
+
 # AppMastersFinal
 Aplicação AppMasters em sua versão Final 
 
+O propósito da aplicação foi participar de um teste para estágio na StartUp App Masters.
 #use
 
 Foram adicionadas novas funcionalidades a aplicação, são elas:
